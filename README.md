@@ -33,7 +33,4 @@ Optimized for desktops, tablets, and mobile devices.
 
 Semantic HTML structure for clarity and SEO.
 CSS for custom styling, creating a consistent and attractive design.
-### Bootstrap:
 
-### Utilized for the responsive grid system and pre-designed components like navbar, buttons, cards, and modals.
-### Enhances user experience with minimal effort.
